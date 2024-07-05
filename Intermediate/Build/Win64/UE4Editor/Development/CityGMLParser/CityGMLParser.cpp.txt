@@ -1,2 +1,0 @@
-C:\Users\mirco\Documents\Unreal Projects\BAProjekt\Plugins\CityGMLParser\Intermediate\Build\Win64\UE4Editor\Development\CityGMLParser\Definitions.CityGMLParser.h
-C:\Users\mirco\Documents\Unreal Projects\BAProjekt\Plugins\CityGMLParser\Source\CityGMLParser\Public\CityGMLParser.h
